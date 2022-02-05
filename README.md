@@ -95,3 +95,4 @@
 ### 45 Sub-Zero Boss
 ### 47 Johnny Cage Boss
 ### 35 Noob Saibot
+### 48 Raiden
