@@ -96,3 +96,6 @@
 ### 47 Johnny Cage Boss
 ### 35 Noob Saibot
 ### 48 Raiden
+### 46 Smoke
+### 49 Kanal
+### 4D Monks
