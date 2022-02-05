@@ -74,3 +74,23 @@
 ### 1A Masked Guard
 ### 1B Shadow Priest
 ### 1D Undead Corpse
+
+## Special characters below, must activate the Boss Fix code so that it doesn't hang when it's loaded
+## Boss Fix
+### 1.20298DA8 00000000
+
+## Boss
+1E Orochi Helbeast
+24 Oni Warlord
+34 Scorpion Boss
+36 Kano
+37 Inferno Scorpion
+38 Baraka Boss
+39 Goro Boss
+3A Kintaro Boss
+3B Reptile Boss
+3E Tsang Tsung
+40 Shao Khan
+44 Ermac
+45 Sub-Zero Boss
+47 Johnny Cage Boss
