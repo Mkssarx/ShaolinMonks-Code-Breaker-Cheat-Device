@@ -56,3 +56,21 @@
 ### 4A Jax
 ### 56 Stone Johnny Cage
 ### 51 Kintaro
+
+## Enemy Generic
+### 04 Clay Soldier
+### 08 Blood Skeleton
+### 09 Black Dragon Merc
+### 0A Demon Captain
+### 0B Demon General
+### 0C Demon Archer
+### 0D Demon Handler
+### 0E Tarkata
+### 0F Oni
+### 10 Red Dragon Merc
+### 11 Brother Of Shadow
+### 12 Futrid Corpse
+### 13 Elemental Knight
+### 1A Masked Guard
+### 1B Shadow Priest
+### 1D Undead Corpse
