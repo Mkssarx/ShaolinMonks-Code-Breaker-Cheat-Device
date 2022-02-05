@@ -25,7 +25,7 @@
 
 ### Replace XX with the following code
 
-### VS Character
+## VS Character
 ### 00 Liu Kang
 ### 01 Kung Lao
 ### 52 Scorpion
@@ -35,7 +35,7 @@
 ### 59 Kitana
 ### 5A Johnny Cage
 
-### Semi Boss
+##  Semi Boss
 ### 2F Goro
 ### 41 Kitana Boss
 ### 42 Milena
