@@ -16,3 +16,30 @@
 
 ## Boss Fix
 ### 1.20298DA8 00000000
+
+## Character Modifiers 
+### Character Modifier P1 00C2974C 000000XX
+
+### Character Modifier P2 00C29750 000000XX
+
+
+### Replace XX with the following code
+
+### VS Character
+### 00 Liu Kang
+### 01 Kung Lao
+### 52 Scorpion
+### 53 Baraka
+### 54 Reptile
+### 58 Sub-Zero
+### 59 Kitana
+### 5A Johnny Cage
+
+### Semi Boss
+### 2F Goro
+### 41 Kitana Boss
+### 42 Milena
+### 43 Jade
+### 4A Jax
+### 56 Stone Johnny Cage
+### 51 Kintaro
