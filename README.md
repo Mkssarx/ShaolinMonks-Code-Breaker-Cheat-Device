@@ -1,5 +1,18 @@
 # Code Breaker/Cheat Device
 
+## Enable Code (Must Be On)
+### 902069F8 00832021
+
+## Infinite Health
+### 201EB0B0 8C8203A0
+### 201EB0B4 AC820398
+
+## Infinite Energy
+### 20169514 00000000
+
+## Exp 1.000.000
+### 20C2E224 000F4240
+
 ## Debug Mode: 
 ### 1.204C6FE0 0000019F
 ### 2.204C6FE4 001AAE80
