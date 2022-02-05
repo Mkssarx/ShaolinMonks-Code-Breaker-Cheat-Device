@@ -27,9 +27,6 @@
 ### 2.D0651F02 0000FEBF
 ### 3.005E894E 00000000
 
-## Boss Fix
-### 1.20298DA8 00000000
-
 ## Character Modifiers 
 ### Character Modifier P1 00C2974C 000000XX
 
