@@ -97,5 +97,5 @@
 ### 35 Noob Saibot
 ### 48 Raiden
 ### 46 Smoke
-### 49 Kanal
+### 49 Kabal
 ### 4D Monks
