@@ -99,3 +99,4 @@
 ### 46 Smoke
 ### 49 Kabal
 ### 4D Monks
+### 26 Stone Liu Kang
