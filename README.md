@@ -86,7 +86,7 @@
 ### 39 Goro Boss
 ### 3A Kintaro Boss
 ### 3B Reptile Boss
-### 3E Tsang Tsung
+### 3E Tsang Shung
 ### 40 Shao Khan
 ### 44 Ermac
 ### 45 Sub-Zero Boss
@@ -99,3 +99,5 @@
 ### 4D Monks
 ### 26 Stone Liu Kang
 ### 4B Sonya Blade
+### 4F Green Kung Lao
+### 3F Old Tsang Shung
