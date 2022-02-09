@@ -1,7 +1,7 @@
 # Code Breaker/Cheat Device
 
 ## Enable Code (Must Be On)
-### 902069F8 00832021
+### F0212FA8 0000000E
 
 ## Infinite Health
 ### 201EB0B0 8C8203A0
