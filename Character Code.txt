@@ -53,3 +53,98 @@
 ### 4F Green Kung Lao 
 ### 3F Old Tsang Shung
 ### 17 Sheeva
+
+From other people
+
+Character
+00 Liu Kang
+01 Kung Lao
+02 Banshee
+03 Cannon Demon
+04 Clay Soldier
+05 Armor Lion
+06 Ninja
+07 Female Ninja
+08 Bloody Skeleton
+09 Black Dragon Mercenaries
+0A Demon Captain
+0B Demon General
+0C Demon Archer
+0D Demon Handler
+0E Tarkata
+0F Oni
+10 Red Dragon Mercenaries
+11 Brother Of shadow
+12 Putrid Corpse
+13 Elemental Knight
+14 Ninja Wraith
+15 Plains Snake
+16 Hanging Corpse
+17 Shiva
+18 Chan Chan
+19 Turban Guard
+1A Masked Guard
+1B Shadow Priest
+1C Green Tarkata
+1D Undead Corpse
+1E Orochi Hellbeast
+1F Shokan
+20 Null
+21 Null
+22 Nagiri Swamp
+23 Null Swamp
+24 Oni Warlod
+25 Null
+26 Null
+27 Spirit Mask Basic
+28 Giant Wings
+29 Crow
+2A Living Tree Mouth
+2B Living Tree Armstrong
+2C Bat
+2D Snake
+2E Skull
+2F Goro
+30 Tentacle
+31 Snake Bisa rider
+32 Acid Snake
+33 Tiger Bisa
+34 Scorpion Boss
+35 Noob Saibot
+36 Kano
+37 Inferno Scorpion
+38 Baraka Boss
+39 Goro Boss
+3A Kintaro Boss
+3B Reptile Boss
+3C Ice Boss
+3D Wind Boss
+3E Young Shang Tsung
+3F Old Shang Tsung
+40 Shao Khan
+41 Kitana Boss
+42 Mileena
+43 Jade
+44 Ermac Boss
+45 Sub Zero Boss
+46 Smoke
+47 Johnny Cage Boss
+48 Raiden
+49 Kabal
+4A Jax
+4B Sonya
+4C Burning Monk
+4D Order Of Light
+4E Tortured Person
+4F Dismembered Body
+50 Pterodactyl
+51 Kintaro
+52 Scorpion (Vs)
+53 Baraka (Vs)
+54 Reptile (Vs)
+55 Ermac
+56 Stone Johnny Cage
+57 Tarkata Grunt
+58 Sub Zero (Vs)
+59 Kitana (Vs)
+5A Johnny Cage (Vs)
