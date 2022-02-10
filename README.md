@@ -20,9 +20,8 @@
 ### 1.204C6FE0 0000019F
 ### 2.204C6FE4 001AAE80
 
-## P1 NPC Fix Animation
+## P1 & P2 NPC Fix Animation
 ### 205E9EC8 00000003
-## P2 NPC Fix Animation
 ### 205ED288 00000003
 
 ## Character Modifiers 
