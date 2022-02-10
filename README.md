@@ -1,6 +1,6 @@
 # Code Breaker/Cheat Device
 
-## Enable Code (Must Be On)
+## Enable Code/MasterCode (Must Be On)
 ### F0212FA8 0000000E
 
 ## Infinite Health
@@ -20,21 +20,15 @@
 ### 1.204C6FE0 0000019F
 ### 2.204C6FE4 001AAE80
 
-## Johnny Cage To Liu Kang
-### 1.00C2974C 0000005A
-### 2.D0651F02 0000FEEF
-### 3.005E894E 0000005A
-
-## Liu Kang To Johnny Cage
-### 1.00C29750 00000000
-### 2.D0651F02 0000FEBF
-### 3.005E894E 00000000
+P1 NPC Fix Animation
+205E9EC8 00000003
+P2 NPC Fix Animation
+205ED288 00000003
 
 ## Character Modifiers 
 ### Character Modifier P1 00C2974C 000000XX
 
 ### Character Modifier P2 00C29750 000000XX
-
 
 ### Replace XX with the following code
 
