@@ -60,5 +60,4 @@
 ### 44 Ermac
 ### 45 Sub-Zero Boss
 ### 47 Johnny Cage Boss
-
-## view code/character.txt To see more character
+See Into View Code/Character_Code.txt
