@@ -87,14 +87,3 @@
 ### 44 Ermac
 ### 45 Sub-Zero Boss
 ### 47 Johnny Cage Boss
-## No Skill Or Attack
-### 35 Noob Saibot
-### 48 Raiden
-### 46 Smoke
-### 49 Kabal
-### 4D Monks
-### 26 Stone Liu Kang
-### 4B Sonya Blade
-### 4F Green Kung Lao
-### 3F Old Tsang Shung
-### 17 Sheeva
