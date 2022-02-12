@@ -41,33 +41,6 @@
 ### 59 Kitana
 ### 5A Johnny Cage
 
-##  Semi Boss
-### 2F Goro
-### 41 Kitana Boss
-### 42 Milena
-### 43 Jade
-### 4A Jax
-### 56 Stone Johnny Cage
-### 51 Kintaro
-
-## Enemy Generic
-### 04 Clay Soldier
-### 08 Blood Skeleton
-### 09 Black Dragon Merc
-### 0A Demon Captain
-### 0B Demon General
-### 0C Demon Archer
-### 0D Demon Handler
-### 0E Tarkata
-### 0F Oni
-### 10 Red Dragon Merc
-### 11 Brother Of Shadow
-### 12 Futrid Corpse
-### 13 Elemental Knight
-### 1A Masked Guard
-### 1B Shadow Priest
-### 1D Undead Corpse
-
 ## Special characters below, must activate the Boss Fix code so that it doesn't hang when it's loaded
 ## Boss Fix
 ### 1.20298DA8 00000000
@@ -87,3 +60,5 @@
 ### 44 Ermac
 ### 45 Sub-Zero Boss
 ### 47 Johnny Cage Boss
+
+## view code/character.txt To see more character
