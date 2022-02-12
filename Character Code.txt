@@ -54,8 +54,6 @@
 ### 3F Old Tsang Shung
 ### 17 Sheeva
 
-From other people
-
 Character
 00 Liu Kang
 01 Kung Lao
@@ -80,7 +78,7 @@ Character
 14 Ninja Wraith
 15 Plains Snake
 16 Hanging Corpse
-17 Shiva
+17 Sheeva
 18 Chan Chan
 19 Turban Guard
 1A Masked Guard
@@ -134,9 +132,9 @@ Character
 4A Jax
 4B Sonya
 4C Burning Monk
-4D Order Of Light
+4D Monk
 4E Tortured Person
-4F Dismembered Body
+4F Green Kung Lao
 50 Pterodactyl
 51 Kintaro
 52 Scorpion (Vs)
