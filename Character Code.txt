@@ -93,7 +93,7 @@ Character
 23 Null Swamp
 24 Oni Warlod
 25 Null
-26 Null
+26 Stone Liu Kang
 27 Spirit Mask Basic
 28 Giant Wings
 29 Crow
@@ -130,9 +130,9 @@ Character
 48 Raiden
 49 Kabal
 4A Jax
-4B Sonya
+4B Sonya Blade
 4C Burning Monk
-4D Monk
+4D Order Of Light
 4E Tortured Person
 4F Green Kung Lao
 50 Pterodactyl
