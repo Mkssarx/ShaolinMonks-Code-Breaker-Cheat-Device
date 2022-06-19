@@ -1,0 +1,8 @@
+Liu Kang (L2 + X to Activated Brutality)
+2103A190 00000165
+Sub-Zero (L2 + X to Activated Brutality)
+20FDFB00 00000A69
+Kung Lao ( 🔲 to Activated Brutality ) 
+21007CB0 0000020D
+Scorpion (R2 to Activated Brutality)
+20FFCDC0 000007F3
